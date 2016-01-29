@@ -18,7 +18,7 @@
 #                                                                            #
 
 {
-    'name': "WebSite Event Filter City",
+    'name': "Website Event Filter City",
 	'summary': 'Filter Events by cities in the frontend/website',
     'version': "8.0.1.0.0",
     'depends': ["base"],
